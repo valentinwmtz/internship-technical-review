@@ -15,11 +15,7 @@ let matches: Match[] = [
 ];
 
 function createMatchCards(matches: Match[]) {
-    const matchCardsContainer = document.getElementById('match-cards');
 
-    matches.forEach(match => {
-
-    });
 }
 
 createMatchCards(matches);
